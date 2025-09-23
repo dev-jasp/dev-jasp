@@ -37,18 +37,7 @@ Loves to explore frontend technologies
 
 </div>
 
-
-### Backend & Database
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-
-**Node.js** • **MongoDB**
-
-</div>
-
-
+--- 
 
 ## 🎯 Featured Projects
 
