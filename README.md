@@ -51,13 +51,3 @@ who likes to tweak latest frontend trends
 - Live demo: [Link](https://your-demo-link.com)
 
 ---
-
-## 🎨 Design & Development Philosophy
-
-- **🎯 User-Centric Design:** Creating intuitive and accessible user experiences
-- **⚡ Performance First:** Optimizing for speed and efficiency
-- **📱 Responsive Design:** Ensuring seamless experience across all devices
-- **🔧 Clean Code:** Writing maintainable and scalable code
-- **🚀 Modern Technologies:** Staying updated with latest web technologies
-
----
