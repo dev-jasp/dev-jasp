@@ -1,8 +1,10 @@
-# Ola Amigos! 👋 I'm Jaspher Gargar
+# Ola Amigos! 👋 I'm Jaspher 
 
-## 🚀 A Frontend Developer 
+---
 
-Loves to explore frontend technologies 
+## 🚀 Frontend Developer 
+
+who likes to tweak latest frontend trends
 
 ---
 
