@@ -1,5 +1,4 @@
 # Ola Amigos! 👋 I'm Jaspher 
-
 ---
 
 ## 🚀 Frontend Developer 
@@ -18,16 +17,14 @@ who likes to tweak latest frontend trends
 
 ## 🛠️ Tech Stack
 
-### Frontend & Backend Technologies
-<div align="center">
-  
-| Language | Framework | Styling | Animation |
-|----------|-----------|---------|-----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> **React** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> **Tailwind CSS** | <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40"/> **Framer Motion** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> **TypeScript** | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> **Next.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> **Material UI** | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/> **Redux Toolkit** | <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="React Query" width="40" height="40"/> **React Query** | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN/UI" width="40" height="40"/> **ShadCN/UI** | <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="React Hook Form" width="40" height="40"/> **React Hook Form** |
+### Frontend 
+| Language | Framework | Styling | Animation | State Management | Forms & Validation |
+|----------|-----------|---------|-----------|------------------|---------------------|
+| <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br/>React</div> | <div align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind CSS</div> | <div align="center"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40"/><br/>Framer Motion</div> | <div align="center"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40"/><br/>Redux Toolkit</div> | <div align="center"><img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="40"/><br/>React Hook Form</div> |
+| <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript</div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br/>Next.js</div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/><br/>Material UI</div> | <div align="center"><img src="https://assets.codepen.io/16327/internal/avatars/users/default.png" width="40"><br/>GSAP</div> | <div align="center"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="React Query" width="40" height="40"/><br/>React Query</div> | <div align="center"><img src="https://avatars.githubusercontent.com/u/30519162?s=200&v=4" width="40"/><br/>Yup</div> |
+|          |           | <div align="center"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/><br/>ShadCN/UI</div> |           |                  | <div align="center"><img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="40"/><br/>Formik</div> |
+|          |           | <div align="center"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40"/><br/>Styled Components</div> |           |                  |                     |
 
-</div>
 
 ### Backend & Database
 <div align="center">
