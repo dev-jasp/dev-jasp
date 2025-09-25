@@ -1,5 +1,4 @@
 # Ola Amigos! 👋 I'm Jaspher 
----
 
 ## 🚀 Frontend Developer 
 
